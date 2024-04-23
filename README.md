@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @diareinxs
+- 👋 Hi, I’m Regine Mae Hambiol
 - 🌱 I’m currently learning at Polytechnic University of the Philippines-Quezon City
 - 📫 Contact: Facebook at Instagram
 - 😄 Pronouns: She/Her
