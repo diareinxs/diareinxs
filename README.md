@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Welcome to My Program Profile.<br>🌱 I’m taking the Information Technology course.<br>✨ Here you can see the projects I made for you to see
+👋 Welcome to My Program Profile.<br>.✨ 
 
 
 ## 🌐 Socials:
