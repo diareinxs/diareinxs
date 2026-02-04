@@ -1,10 +1,6 @@
 # 💫 About Me:
 👋 Welcome to My Program Profile.
 
-![fantastic beasts and where to find them trailer GIF](https://github.com/user-attachments/assets/4e0f284e-01fe-4e44-9bcd-4187eeccd02c)
-
-![bbc natural world bird GIF by Head Like an Orange](https://github.com/user-attachments/assets/a21f117d-97d9-4d39-adca-470b66b4add0)
-
 ![Maomao Anime Cat GIF](https://github.com/user-attachments/assets/84176dcf-2927-400f-8747-a772d4116c01)
 
 # 💻 Tech Stack:
