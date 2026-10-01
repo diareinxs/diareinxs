@@ -31,7 +31,6 @@ I enjoy combining design thinking, technical execution, and data-driven decision
 - Project planning and workflow tracking with Jira
 - UI/UX design and wireframing with Figma and Lucidchart
 - Front-end development using HTML, JavaScript, and React.js
-- Back-end development with Node.js
 - Data analysis and reporting with Power BI and MS SQL Server
 - Automation and scripting with Python
 - Documentation and productivity using Microsoft Office and Google Workspace
@@ -40,11 +39,11 @@ I enjoy combining design thinking, technical execution, and data-driven decision
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=diareinxs&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diareinxs&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 > Building useful things, improving processes, and creating value through technology.
