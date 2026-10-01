@@ -2,7 +2,7 @@
 
 A passionate and detail-oriented professional focused on building efficient digital solutions, improving workflows, and turning ideas into user-friendly experiences.
 
-<p align="center">
+<p align="left">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Creative Working GIF" width="500" />
 </p>
 
