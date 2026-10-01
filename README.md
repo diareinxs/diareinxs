@@ -5,7 +5,12 @@ A passionate and detail-oriented professional focused on building efficient digi
 <p align="left">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Creative Working GIF" width="500" />
 </p>
-
+<p align="center">
+  <img src="https://giphy.com/gifs/hello-hi-hey-69SRcSJ2Nq2qJxzvs6"alt="Hello by Calico Cat" width="500" />
+</p>
+<p align="right">
+  <img src="https://giphy.com/gifs/sinonn-the-apothecary-diaries-theapothecarydiaries-sb08e2jEdp3J2xMgus"alt="Maomao hehehe" width="500" />
+</p>
 ## About Me
 
 I enjoy combining design thinking, technical execution, and data-driven decision-making to create impactful projects. My work spans product and process improvement, web development, data analysis, and collaboration across teams.
