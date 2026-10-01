@@ -2,15 +2,11 @@
 
 A passionate and detail-oriented professional focused on building efficient digital solutions, improving workflows, and turning ideas into user-friendly experiences.
 
-<p align="left">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Creative Working GIF" width="500" />
-</p>
-<p align="center">
-  <img src="https://media.giphy.com/media/69SRcSJ2Nq2qJxzvs6/giphy.gif" alt="Hello by Calico Cat" width="500" />
-</p>
-<p align="right">
-  <img src="https://media.giphy.com/media/sb08e2jEdp3J2xMgus/giphy.gif" alt="Maomao hehehe" width="500" />
-</p>
+<div align="center" style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; align-items: center;">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Creative Working GIF" width="100%" style="max-width: 300px;" />
+  <img src="https://media.giphy.com/media/69SRcSJ2Nq2qJxzvs6/giphy.gif" alt="Hello by Calico Cat" width="100%" style="max-width: 300px;" />
+  <img src="https://media.giphy.com/media/sb08e2jEdp3J2xMgus/giphy.gif" alt="Maomao hehehe" width="100%" style="max-width: 300px;" />
+</div>
 ## About Me
 
 I enjoy combining design thinking, technical execution, and data-driven decision-making to create impactful projects. My work spans product and process improvement, web development, data analysis, and collaboration across teams.
