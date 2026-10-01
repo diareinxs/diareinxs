@@ -15,8 +15,8 @@ I enjoy combining design thinking, technical execution, and data-driven decision
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=diareinxs&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Tech Quote
+*It has become appallingly obvious that our technology has exceeded our humanity. - Albert Einstein (Scientist)*
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=diareinxs&limit=5&theme=dark&combine_all_yearly_contributions=true)
